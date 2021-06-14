@@ -1,4 +1,6 @@
 body {
+  background-color: #fcfbf9;
+  color: #0a0a0a;
 }
 
 h1 {
@@ -20,10 +22,11 @@ h3 {
 
 #schedule {
   padding: 10px 20px 10px 20px;
-  background-color: #9933ff;
+  background-color: #b47eeb;
 }
 
 .iniad {
+  color: #5437d6;
 }
 
 .time {
